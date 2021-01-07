@@ -1,2 +1,2 @@
 # DeepSCAMs
-flagging SCAMs
+A deep learning tool to flag SCAMs
