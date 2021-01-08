@@ -1,1 +1,5 @@
+This folder contains 3 files:
 
+1 - "train_data.txt" - Training data (DLS readouts at 30 micromolar for 900+ small molecules)
+2 - "test.txt" - test molecule smiles 
+3 - "test_preds.txt" - output file
