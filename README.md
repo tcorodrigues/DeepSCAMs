@@ -1,2 +1,2 @@
 # DeepSCAMs
-A deep learning tool to flag SCAMs
+A deep learning tool to flag small colloidally aggregating molecules (SCAMs)
