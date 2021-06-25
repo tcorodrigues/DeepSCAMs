@@ -4,6 +4,7 @@ from rdkit import Chem
 from rdkit.Chem import Descriptors, AllChem
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.neural_network import MLPClassifier
+from sklearn.model_selection import StratifiedKFold
 
 
 # Load training data
